@@ -1,0 +1,32 @@
+.mainheader {
+    background-color: #4aaaa5;
+    border-color: #cccccc;
+    float: left;
+    color: white;
+}
+
+.footer {
+    background-color: #666666;
+}
+
+.maincontent {
+    background-color: #ffffff;
+    border-color:#dddddd;
+}
+
+.header {
+    background
+}
+
+.about {
+    float: left;
+    width:33.33%;
+}
+.contact {
+    float: left;
+    width:33.33%;
+}
+.portfolio {
+    float: right;
+    width:10%;
+}

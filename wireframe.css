@@ -8,6 +8,7 @@ body {
     
 
 }
+
 .header, .nav, .section, .h1, .p, .aside, .footer {
 background: #ebebeb
 }
@@ -23,6 +24,7 @@ background: #ebebeb
     padding: 40px; 
     margin: 10px;
 }
+
 .section {
     width: 560px;
     float: left;
@@ -43,6 +45,7 @@ background: #ebebeb
     margin bottom: 10px;
     height: 70%;
 }
+
 .h1 {
     color: #777;
     text-align: center;
@@ -52,6 +55,7 @@ background: #ebebeb
     margin-right: 10px;
     margin bottom: 20px;
 }
+
 .p {
     color: #777;
     text-align: center;
@@ -60,8 +64,6 @@ background: #ebebeb
     margin-left: 10px;
     margin-right: 10px;
     margin bottom: 20px;
-}
-
 }
 
 div {
